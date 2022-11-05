@@ -2,7 +2,8 @@
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently studying Mathematics Economics and Computer Science at LAET
 - 📫 How to reach me is Linkden: www.linkedin.com/in/tuhinshaikhh
-
+- 🏆 DOJO RealWork Winner
+- 🏆 GOLD in UKMT
 
 <!---
 TU81N/TU81N is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
