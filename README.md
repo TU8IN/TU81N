@@ -4,8 +4,6 @@
 - 📫 How to reach me is Linkden: www.linkedin.com/in/tuhinshaikhh
 - 🏆 DOJO RealWork Winner
 - 🏆 GOLD in UKMT
-- 🏆 Jack Petchetcy
--
 
 <!---
 TU81N/TU81N is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
